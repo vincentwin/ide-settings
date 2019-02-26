@@ -1,0 +1,56 @@
+{
+	"binary_file_patterns":
+	[
+		"dist/*",
+		"node_modules/*",
+		"bower_components/*",
+		"tmp/*",
+		"*.jpg",
+		"*.jpeg",
+		"*.png",
+		"*.gif",
+		"*.ttf",
+		"*.tga",
+		"*.dds",
+		"*.ico",
+		"*.eot",
+		"*.pdf",
+		"*.swf",
+		"*.jar",
+		"*.zip",
+		"bundle.js",
+		"build/*",
+		"*.lock",
+		"global-ci-functions/*",
+		"test/*",
+		"package-lock.json",
+		"npm-debug.log"
+	],
+	"file_exclude_patterns":
+	[
+		"*.marko.js",
+		".DS_Store"
+	],
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"node_modules",
+		"tmp",
+		"bower_components",
+		"log",
+		".nuxt",
+		".idea",
+		"release",
+		"dist",
+		"global-ci-functions"
+	],
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true
+}

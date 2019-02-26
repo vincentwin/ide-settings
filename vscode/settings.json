@@ -1,0 +1,12 @@
+{
+    "window.zoomLevel": 0,
+    "workbench.colorTheme": "Monokai",
+    "editor.formatOnPaste": true,
+    "editor.formatOnType": false,
+    "files.exclude": {
+        "global-ci-functions": true
+    },
+    "editor.tabSize": 2,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.snippetSuggestions": "top"
+}
