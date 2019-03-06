@@ -4,7 +4,8 @@
     "editor.formatOnPaste": true,
     "editor.formatOnType": false,
     "files.exclude": {
-        "global-ci-functions": true
+        "global-ci-functions": true,
+        "node_modules": true
     },
     "editor.tabSize": 2,
     "editor.multiCursorModifier": "ctrlCmd",
